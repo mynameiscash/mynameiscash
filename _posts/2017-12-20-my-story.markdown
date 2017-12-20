@@ -5,8 +5,8 @@ date: 2017-12-20
 categories:
   - About.me
 description: 
-image: 
-image-sm: 
+image: https://unsplash.it/2000/1200?image=649
+image-sm: https://unsplash.it/500/300?image=649
 ---
 <h3>My life mission:</h3>
 <blockquote>To make positive change within my local and global community while exploring my interests in music, technology, sustainability, and education, all while having a bit of fun.</blockquote>
