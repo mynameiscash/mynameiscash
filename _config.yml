@@ -1,6 +1,5 @@
 # Site settings
 email: cwhelman@gmail.com
-baseurl: "mynameiscash"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: UA-70791392-1
@@ -8,7 +7,7 @@ google_analytics: UA-70791392-1
 # SEO settings
 title: Cash Helman
 description: That's my name
-url: "http://mynameiscash.github.io"
+url: http://mynameiscash.com/
 twitter_username: mynamescash
 default_img: 
 
