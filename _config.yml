@@ -14,10 +14,13 @@ default_img:
 
 # Profile settings
 name: Cash Helman
-profile_img: 
+profile_img: https://unsplash.it/500/300?image=817
 profile: I studied Natural Resources Management in college, but somehow ended up being an English teacher in Japan. When I am not working, I write songs, cook, and exercise frequently.
 social:
-  github: mynameiscash
+  github: https://github.com/mynameiscash
+  twitter: https://twitter.com/mynamescash
+  linkedin: https://www.linkedin.com/in/cash-helman-151a9574
+
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]

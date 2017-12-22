@@ -1,0 +1,70 @@
+---
+layout: post
+title: "Resume"
+date: 2017-10-20
+categories:
+  - About.me
+description: 
+image: https://unsplash.it/2000/1200?image=643
+image-sm: https://unsplash.it/500/300?image=643
+---
+
+<strong>WORK EXPERIENCE</strong>
+
+<strong>Assistant Language Teacher – Japan Exchange and Teaching Program </strong>August 2015 – Present
+<ul>
+	<li>Teach English as a foreign language to over 1,000 elementary and middle school students</li>
+	<li>Design and implement creative and challenging English materials</li>
+	<li>Provide free weekly English classes for community members interested in learning English at the local community center.</li>
+	<li>Created the first-ever Buzen City English website to provide in-depth information to tourists about popular festivals, places to eat, and accommodations</li>
+	<li>Presented in the 2016 Japan English and Teaching Program Skill Development Conference- "Student Engagement in the Classroom"</li>
+	<li>Assisted in facilitating an Exchange Program between Japanese students in Buzen City and Saint Joseph High School in Hilo, Hawaii.</li>
+	<li>Translated Japanese documents into English for tourists coming to Buzen</li>
+</ul>
+<strong> </strong><strong>Customer Service Representative – Aiea Copy Center </strong>August 2014 - June 2015
+<ul>
+	<li>Provided excellent customer service at this dynamic small business</li>
+	<li>Assisted in creating pamphlets, programs, banners, and signage</li>
+	<li>Learned about design principles, print, and advanced functions of Xerox Machines</li>
+</ul>
+<strong>Green Business Intern- </strong><strong>Department of Business, Economic Development, and Tourism </strong>March 2013 – August 2014
+<ul>
+	<li>Worked with businesses to complete checklists to improve energy and water efficiency</li>
+	<li>Conducted site visits to assess water and energy usage</li>
+	<li>Built and maintained client-relationships with businesses in Hawaii</li>
+	<li>Created graphics and videos using Adobe Software</li>
+	<li>Assisted in the planning and preparation for the Green Business Award Ceremony</li>
+</ul>
+<strong>Youth Specialist- Boys and Girls Club of Hawaii     </strong>October 2013 – August 2014
+<ul>
+	<li>Developed afterschool programs in  gardening and web design elementary and intermediate school students in Kailua, Hawaii</li>
+	<li>Built relationships and mentored students in topics related to self-worth community service and college</li>
+</ul>
+<strong>Marine Mammal Naturalist- Star of Honolulu       </strong>December 2013- April 2014
+<ul>
+	<li>Educated the public about marine mammals and national monuments found in Hawaii</li>
+	<li>Gave ship-wide narrations and presentations to over 300 people</li>
+	<li>Assisted in the maintenance and cleaning of the ship</li>
+</ul>
+<strong>Intern at the National Park Service of American Samoa - </strong><strong>Pacific Internship Programs for Exploring Science </strong>Summer 2013
+<ul>
+	<li>Developed and wrote grant proposals for future National Park Service projects related to the long-term monitoring and protection of turtles and fruit bats</li>
+	<li>Assisted in the deployment climate change and invasive species research plots</li>
+	<li>Planned and led out youth-outreach programs throughout local villages on Tutuila Island</li>
+</ul>
+<strong>Intern at USDA Forest Service Institute of Pacific Islands Forestry -</strong><strong>Pacific Internship Programs for Exploring Science   </strong>Summer 2012
+<ul>
+	<li>Conducted researched based on the diversity of native Hawaiian plants in Kipukas, Hawaiian forests that have been carved out by lava</li>
+	<li>Hiked through steep terrain carrying packs over 30 pounds within native forests</li>
+	<li>Constructed seedling plots to examine native seedling diversity in native Kipuka ecosystems</li>
+	<li>Used Microsoft Excel to construct databases and perform statistical analyses</li>
+	<li>Banded and collected data on nesting and mating patterns of Native Hawaiian Birds</li>
+	<li>Produced final reports and presentations to depict research</li>
+</ul>
+<strong>Hydrology Student Researcher -</strong><strong> College of Tropical Agriculture and Human Resources </strong>January 2011- June 2012
+<ul>
+	<li>Collected annual rain, stemflow, and water quality data at the Makaha Forest Research Stations</li>
+	<li>Work with a team of 3-4 to navigate towards project sites</li>
+	<li>Constructed and maintained throughfall and stemflow gauges</li>
+	<li>Hiked long distances to work sites with heavy equipment.</li>
+</ul>

@@ -5,8 +5,8 @@ date: 2017-12-20
 categories:
   - About.me
 description: 
-image: https://unsplash.it/2000/1200?image=649
-image-sm: https://unsplash.it/500/300?image=649
+image: https://unsplash.it/2000/1200?image=643
+image-sm: https://unsplash.it/500/300?image=643
 ---
 <h3>My life mission:</h3>
 <blockquote>To make positive change within my local and global community while exploring my interests in music, technology, sustainability, and education, all while having a bit of fun.</blockquote>
@@ -15,9 +15,9 @@ My name is Cash. Yes, you read that correctly. How did I get that name, you may 
 
 I won't bore you with the little details of my life, but all you need to know is that I live in Buzen, Japan, make music, and eat copious amounts of ice cream. To offset my huge calorie intake, I try to spend as much of my free time being outdoors.
 
-While life has definitely kicked me in the bum <i>(what video below)</i> few times, it has been filled with amazing experiences and has also allowed me to achieve some of my biggest dreams:
+While life has definitely kicked me in the bum <i>(what video below)</i> a few times, it has been filled with amazing experiences and has also allowed me to achieve some of my biggest dreams:
 <ol>
- 	<li>Graduating (and surviving) from Kea'au High School as Valedictorian (2009)</li>
+ 	<li>Graduating from Kea'au High School (2009)</li>
  	<li>Obtaining A Full Tuition Scholarship to the University of Hawaii at Manoa from<a href="http://www.sfotp.com/cash-helman/" target="_blank" rel="noopener"> the Scholarship Foundation of the Pacific</a> (2009-2013)</li>
  	<li>Being accepted into the <a href="http://taiwanusalliance.com/" target="_blank" rel="noopener">Taiwan United States Sister Relations Alliance Program</a> to promote healthy relations between the US and Taiwan (2010)</li>
  	<li>Studying abroad in Seville, Spain at the International College of Sevilla (2011)</li>
