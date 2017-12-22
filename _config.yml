@@ -1,6 +1,6 @@
 # Site settings
 email: cwhelman@gmail.com
-baseurl: "mynameiscash"
+baseurl: "/mynameiscash"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: UA-70791392-1
