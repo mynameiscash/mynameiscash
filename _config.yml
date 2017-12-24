@@ -25,6 +25,7 @@ social:
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
+include: ["_categories"]
 
 
 # Sass
