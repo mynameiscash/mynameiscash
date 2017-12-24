@@ -27,6 +27,7 @@ markdown: kramdown
 permalink: /:year/:month/:day/:title/
 include: ["_categories"]
 
+
 # Sass
 sass:
   style: compressed
