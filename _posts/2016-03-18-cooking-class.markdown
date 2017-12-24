@@ -3,7 +3,7 @@ layout: post
 title: "Taking Cooking Classes"
 date: 2016-04-06
 categories:
-  - Recipes
+  - Blog
 description: 
 image: https://unsplash.it/2000/1200?image=999
 image-sm: https://unsplash.it/500/300?image=999

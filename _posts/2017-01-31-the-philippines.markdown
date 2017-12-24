@@ -3,7 +3,7 @@ layout: post
 title: "The Philippines"
 date: 2017-01-31
 categories:
-  - Travel
+  - Blog
 description: 
 image: https://unsplash.it/2000/1200?image=887
 image-sm: https://unsplash.it/500/300?image=887
