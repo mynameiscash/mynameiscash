@@ -1,0 +1,18 @@
+---
+layout: post
+title: "My Story"
+date: 2016-01-01
+categories:
+  - About.me
+description: 
+image: https://unsplash.it/2000/1200?image=643
+image-sm: https://unsplash.it/500/300?image=643
+---
+<h3>My life mission:</h3>
+<blockquote>To make positive change within my local and global community while exploring my interests in music, technology, sustainability, and education, all while having a bit of fun.</blockquote>
+
+My name is Cash. Yes, you read that correctly. How did I get that name, you may be wondering? Simply put: My parents wanted me to be rich. Unfortunately for them (and me), it hasn't worked out yet. But I am optimistic!
+
+This website holds all of my original music that I have been working on. I primarily blog on my wordpress website, which can be found here <a href="http://wwww.cashhelman.com" target="_blank" rel="noopener"> here</a>. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B1CsywR4Ggw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
